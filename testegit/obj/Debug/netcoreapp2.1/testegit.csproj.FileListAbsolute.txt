@@ -1,0 +1,11 @@
+C:\Users\rawan\Desktop\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.deps.json
+C:\Users\rawan\Desktop\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.runtimeconfig.json
+C:\Users\rawan\Desktop\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.runtimeconfig.dev.json
+C:\Users\rawan\Desktop\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.dll
+C:\Users\rawan\Desktop\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.pdb
+C:\Users\rawan\Desktop\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.csprojAssemblyReference.cache
+C:\Users\rawan\Desktop\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.csproj.CoreCompileInputs.cache
+C:\Users\rawan\Desktop\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.AssemblyInfoInputs.cache
+C:\Users\rawan\Desktop\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.AssemblyInfo.cs
+C:\Users\rawan\Desktop\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.dll
+C:\Users\rawan\Desktop\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.pdb
